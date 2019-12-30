@@ -1,4 +1,10 @@
-# Blueprint dla aplikacji Angular na potrzeby edukacyjne
+# Dodatkowe przykłady na potrzeby kursu Angulara
+## Więcej informacji:
+- kurs udemy [https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/)
+- blog [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
+# ćwiczenia z interpolacji
+Otwórz przez StackBlitz:
+[https://stackblitz.com/github/ZacznijProgramowac/interpolation-exercises-udemy](https://stackblitz.com/github/ZacznijProgramowac/interpolation-exercises-udemy)
 
 ## Wymagania projektu
 - Angular CLI: 9.0.0-rc.7
